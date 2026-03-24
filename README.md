@@ -1,4 +1,4 @@
-# 📊 Projeto 3: Análise de RH - Turnover e Satisfação
+# 📊 Projeto 3: People Analytics - Turnover e Satisfação
 
 ---
 
